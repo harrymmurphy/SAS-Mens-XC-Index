@@ -1,3 +1,3 @@
 # SAS Mens XC Power Ranking Index
 
-# 1. Introduction
+### 1. Introduction
